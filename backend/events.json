@@ -1,11 +1,1 @@
-{
-  "events": [
-    {
-      "id": "e1",
-      "title": "A dummy event",
-      "date": "2023-02-22",
-      "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
-      "description": "Join this amazing event and connect with fellow developers."
-    }
-  ]
-}
+{"events":[{"title":"titolone","image":"https://www.borgobrufa.it/wp-content/uploads/sites/495/2023/04/Ristorante-Quattro-Sensi-2.jpg","date":"2024-09-20","description":"jkhkhhkhk","id":"7f09e81c-a029-4a82-bb79-e7b316db1758"},{"title":"safasf","image":"https://www.ristoranteallalega.com/photos/ristorante.jpg","date":"2024-09-20","description":"adsfafafsa","id":"d1f78291-f266-4ab7-b581-96eb07e7e577"},{"title":"sadasda","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUd60CseY_zLdspgWgZIzBvVSvg5v891FP5R3z1BLCxQ&s","date":"2024-09-21","description":"dsgsdgsdg","id":"316b3dee-e1ff-4d25-b0ba-24b9ab75bbf3"},{"title":"dfsfsdfdf","image":"https://m.media-amazon.com/images/I/81FWZVtUoEL._AC_UF1000,1000_QL80_.jpg","date":"2024-09-20","description":"dfgdfgdgfdfg","id":"88be1a40-3133-4e91-8d81-f76cf5ccec09"},{"title":"dasdasd","image":"https://hips.hearstapps.com/hmg-prod/images/1804943-1639731508.jpg?resize=980:*","date":"2024-09-27","description":"asdasd","id":"ef6d1ce5-6927-4370-84c4-700c7d5192ab"},{"id":"e1","title":"A dummy event","date":"2023-02-22","image":"https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg","description":"Join this amazing event and connect with fellow developers."}]}
